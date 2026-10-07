@@ -19,15 +19,6 @@ Amasra'daki bir kafe için hazırlanmış, tek sayfalı ve mobil uyumlu tanıtı
 
 Harici paket veya derleme aracı gerektirmez. Yazı tipleri ve sayfa fotoğrafları internet bağlantısıyla Google Fonts ve Unsplash üzerinden yüklenir.
 
-## Yerelde çalıştırma
-
-`index.html` dosyasını tarayıcıda açabilir veya proje klasöründe basit bir yerel sunucu başlatabilirsin:
-
-```bash
-python -m http.server 8000
-```
-
-Ardından `http://localhost:8000` adresini ziyaret et.
 
 ## Proje dosyaları
 
