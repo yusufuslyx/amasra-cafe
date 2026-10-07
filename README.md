@@ -27,7 +27,7 @@ Harici paket veya derleme aracı gerektirmez. Yazı tipleri ve sayfa fotoğrafla
 ├── index.html
 ├── styles.css
 ├── script.js
-└── images (2).jpg
+.
 ```
 
 ## Yayına almadan önce
